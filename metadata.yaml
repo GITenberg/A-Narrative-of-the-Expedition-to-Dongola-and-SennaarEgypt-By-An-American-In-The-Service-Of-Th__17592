@@ -1,0 +1,37 @@
+_repo: A-Narrative-of-the-Expedition-to-Dongola-and-SennaarEgypt-By-An-American-In-The-Service-Of-Th__17592
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: English, George Bethune
+    birthdate: 1787
+    deathdate: 1828
+    gutenberg_agent_id: '6398'
+    url: http://www.gutenberg.org/2009/agents/6398
+    wikipedia: http://en.wikipedia.org/wiki/George_Bethune_English
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2006-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Sudan -- History -- To 1821'
+- !lcsh 'Sudan -- History -- 1821-1881'
+- !lcsh 'Dunqulah (Sudan) -- History'
+- !lcsh 'Sennar (Sudan) -- History'
+title: 'A Narrative of the Expedition to Dongola and Sennaar
+
+  Under the Command of His Excellence Ismael Pasha, undertaken
+
+  by Order of His Highness Mehemmed Ali Pasha, Viceroy of
+
+  Egypt, By An American In The Service Of The Viceroy'
+url: http://www.gutenberg.org/ebooks/17592
