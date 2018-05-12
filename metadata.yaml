@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6398
     wikipedia: http://en.wikipedia.org/wiki/George_Bethune_English
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17592#A-Narrative-of-the-Expedition-to-Dongola-and-SennaarEgypt-By-An-American-In-The-Service-Of-Th_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2006-01-24'
 gutenberg_type: Text
